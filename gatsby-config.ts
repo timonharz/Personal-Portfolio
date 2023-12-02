@@ -18,7 +18,7 @@ const config: GatsbyConfig = {
     author: `@lekoarts_de`,
   },
   trailingSlash: `always`,
-  pathPrefix: "/Personal-Portfolio","
+  pathPrefix: "/Personal-Portfolio",
   plugins: [
     {
       resolve: `@lekoarts/gatsby-theme-minimal-blog`,
